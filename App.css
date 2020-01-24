@@ -1,0 +1,23 @@
+.App {
+	margin-top: 1rem;
+	display: flex;
+	flex-flow: nowrap column;
+	align-items: center;
+	text-align: center;
+}
+.App div{
+	margin: 1rem;
+}
+.row{
+	display: flex;
+	flex-flow: nowrap row;
+}
+.box{
+	width: 100px;
+	height: 100px;
+	border: 1px solid;
+}
+
+.grid {
+	border: 1px solid black;
+}
